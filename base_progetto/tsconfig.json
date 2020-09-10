@@ -1,0 +1,14 @@
+{
+    "files": [],
+    "references": [
+      {
+        "path": "./common"
+      },
+      {
+        "path": "./progetto-backend"
+      },
+      {
+        "path": "./progetto-frontend"
+      }
+    ]
+}
